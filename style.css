@@ -181,9 +181,13 @@ body{
 }
 #footer > p{
     text-align: center;
-    font-family: 'Ink Free', 'Times New Roman', Times, serif;
+    font-family: 'Garamond', 'Times New Roman', Times, serif;
     font-size: 30px;
     color:white;
+}
+
+#footer img{
+    height: 40px;
 }
 
 
